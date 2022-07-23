@@ -10,3 +10,21 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+body {
+    background-color: whitesmoke;
+    background-image: url("https://static.vecteezy.com/system/resources/previews/002/885/317/original/pink-red-beautiful-spring-flower-bloom-branch-background-with-free-copy-space-for-greeting-card-or-environment-cover-page-template-web-banner-and-header-free-photo.jpg");
+}
+
+h1 {
+    color: black;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 20px;
+}
+a {
+    margin: 10px;
+}
+p {
+    padding: 80px;
+}
